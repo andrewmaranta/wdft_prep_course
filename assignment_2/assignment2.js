@@ -3,6 +3,10 @@ Exercise #1
 Create a for loop that prints out the numbers 1 to 100 in the console.
 */
 
+for (var i=1;i<=100; i++){
+    console.log(i);
+}
+
 
 
 /*
@@ -17,3 +21,12 @@ Write a loop that makes seven calls to console.log to output the following trian
 ######
 #######
 */
+
+var x='#';
+
+for(var i=0;i<7;i++){
+    console.log(x); 
+    if(i<x.length){
+    x+='#';
+    }
+}
