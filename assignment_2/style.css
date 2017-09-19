@@ -1,0 +1,28 @@
+h1{
+    color:red;
+}
+.p1box{
+    background-color: grey;
+    border:2px dotted black;
+    width:200px;
+    padding:10px 20px;
+    margin:30px 10px;
+}
+
+#img1{
+    border:5px solid grey;
+    width:200px;
+    height:200px;
+    display:block;
+    margin:30px 10px
+
+}
+
+#img2{
+    background-color: grey;
+    padding:5px 5px;
+    width:200px;
+    height:200px;
+    display:block;
+    margin:30px 10px
+}
